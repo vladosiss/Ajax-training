@@ -6,3 +6,4 @@ var gulp = require('gulp'),
     size = require('gulp-size'),
     sourcemaps = require('gulp-sourcemaps'),
     browser = require("browser-sync").create();
+   var bootstrap = require('bootstrap');
