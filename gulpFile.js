@@ -1,4 +1,4 @@
-var sass = require('gulp-sass');  
+var sass = require('gulp-sass')
 var gulp = require('gulp'),
     del = require('del'),
     concat = require('gulp-concat'),
@@ -6,4 +6,4 @@ var gulp = require('gulp'),
     size = require('gulp-size'),
     sourcemaps = require('gulp-sourcemaps'),
     browser = require("browser-sync").create();
-   var bootstrap = require('bootstrap');
+   var bootstrap = require('bootstrap')

@@ -1,21 +1,21 @@
 {
-  "name": "Ajaxs training",
+  "name": "Ajax training",
   "version": "1.0.0",
   "description": "Learn Gulp",
-  "main": "gulpFile1.js",
+  "main": "gulpFile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vladosiss/Ajax-training.git"
+    "url": "https://github.com/vladosiss/Ajax-training.git"
   },
   "author": "Neanderthal",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/vladosiss/Ajax-training"
   },
-  "homepage": "https://github.com/vladosiss/Ajax-training#readme",
+  "homepage": "https://github.com/vladosiss/Ajax-training",
   "devDependencies": {
     "bootstrap": "^3.3.7",
     "bootstrap-sass": "^3.3.7",
@@ -27,4 +27,4 @@
     "del": "^2.2.2",
     "gulp": "^3.9.1"
   }
-}
+};
